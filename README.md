@@ -1,7 +1,6 @@
-#HCI-SENG2260
+#HCI-SENG2260 Human-Computer Interaction
 
-Human-Computer Interaction
-    Our project was called "Lensys"
+Our project was called "Lensys"
 
 This is a team assignment/project completed for the HCI course at university.
 This was completed in a group of 5 members. 

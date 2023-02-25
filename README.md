@@ -1,30 +1,30 @@
 #HCI-SENG2260 Human-Computer Interaction
 
-The project was named "Lensys" by our group
+The project was named "Lensys" by our group.
 
-This is a team assignment/project completed for the HCI course at university.
-This was completed in a group of 5 members. 
-The main objectives of the assignment is to design the user interface for an international airport-based HoloLens 2 system.
+This team assignment/project was completed for the HCI course at university by a group of 5 members. The main objective of the assignment was to design the user interface for an international airport-based HoloLens 2 system.
 
-Through assignment 1 we had completed these assessments:
-- Choosing what to Prototype and Test
-- Preparing for Testing 
-- Running the Tests 
-- Written report which includes:
-  - Heuristic Assessment
-  - Risk Assessment
-  - Preparing project briefing, scenario tasks for the testing, observation documentation
-- Risk resolution and prototype iteration
-- Minutes and summary of meetings
+During assignment 1, we completed the following assessments:
 
-Through assignment 2 & 3 we had completed these assessments:
-- Presentation and Prototype Implementation 
+- Selection of prototype and testing criteria
+- Preparation for testing
+- Running the tests
+- Written report including:
+  - Heuristic assessment
+  - Risk assessment
+  - Preparation of project briefing, scenario tasks for testing, observation documentation
+  - Risk resolution and prototype iteration
+  - Meeting minutes and summary
+  - 
+During assignments 2 and 3, we completed the following assessments:
+
+- Presentation and implementation of prototype
   - Presentation of our high-fidelity prototype
-- User Testing 
-- Written Final Report: 
-  - Problem domain documentation
-  - Design documentation (design decision, target demographic, etc)
-  - Implementation/Prototype 
+- User testing
+- Written final report including:
+  - Documentation of problem domain
+  - Design documentation (design decisions, target demographic, etc.)
+  - Implementation/prototype
   - Evaluation assessment
   - Reflection assessment
-  - Minutes and summary of meetings 
+  - Meeting minutes and summary

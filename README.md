@@ -1,6 +1,6 @@
 #HCI-SENG2260 Human-Computer Interaction
 
-The project was named "Lensys" by our group.
+The project was implemented by Lensys, a group of 5 members (Jacob, Ben O, Benjamin K, Toby T(Gia Thu), Kye O).
 
 This team assignment/project was completed for the HCI course at university by a group of 5 members. The main objective of the assignment was to design the user interface for an international airport-based HoloLens 2 system.
 
